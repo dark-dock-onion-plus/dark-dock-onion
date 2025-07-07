@@ -75,4 +75,6 @@ Store your mnemonic code securely in a separate, offline location. Never store t
 
 
 
-Update:  07/04/2025
+
+
+Update: Fixed dead url
